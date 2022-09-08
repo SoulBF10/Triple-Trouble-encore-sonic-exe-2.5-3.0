@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tails_Rush_Test_.png"><SubTexture name="Tails_Rush_Test_ Down0000" x="1278" y="1550" width="450" height="368" frameX="-52" frameY="-143" frameWidth="518" frameHeight="546" />
+<SubTexture name="Tails_Rush_Test_ Down0001" x="406" y="1550" width="438" height="389" frameX="-62" frameY="-121" frameWidth="518" frameHeight="546" />
+<SubTexture name="Tails_Rush_Test_ Down0002" x="844" y="1550" width="434" height="378" frameX="-69" frameY="-134" frameWidth="518" frameHeight="546" />
+<SubTexture name="Tails_Rush_Test_ Idle0000" x="1036" y="0" width="512" height="541" frameX="0" frameY="-3" frameWidth="518" frameHeight="546" />
+<SubTexture name="Tails_Rush_Test_ Idle0001" x="483" y="1087" width="383" height="442" frameX="-122" frameY="-70" frameWidth="518" frameHeight="546" />
+<SubTexture name="Tails_Rush_Test_ Idle0002" x="0" y="1087" width="483" height="463" frameX="-20" frameY="-49" frameWidth="518" frameHeight="546" />
+<SubTexture name="Tails_Rush_Test_ Idle0003" x="0" y="546" width="512" height="541" frameX="0" frameY="-3" frameWidth="518" frameHeight="546" />
+<SubTexture name="Tails_Rush_Test_ Left0000" x="0" y="0" width="518" height="546" frameX="0" frameY="0" frameWidth="518" frameHeight="546" />
+<SubTexture name="Tails_Rush_Test_ Left0001" x="518" y="0" width="518" height="546" frameX="0" frameY="0" frameWidth="518" frameHeight="546" />
+<SubTexture name="Tails_Rush_Test_ Left0002" x="0" y="1550" width="406" height="419" frameX="-9" frameY="-99" frameWidth="518" frameHeight="546" />
+<SubTexture name="Tails_Rush_Test_ Right0000" x="1237" y="1087" width="351" height="425" frameX="-126" frameY="-89" frameWidth="518" frameHeight="546" />
+<SubTexture name="Tails_Rush_Test_ Right0001" x="1548" y="514" width="444" height="465" frameX="-52" frameY="-49" frameWidth="518" frameHeight="546" />
+<SubTexture name="Tails_Rush_Test_ Right0002" x="512" y="546" width="512" height="541" frameX="0" frameY="-3" frameWidth="518" frameHeight="546" />
+<SubTexture name="Tails_Rush_Test_ Right0003" x="1548" y="0" width="444" height="514" frameX="-52" frameY="0" frameWidth="518" frameHeight="546" />
+<SubTexture name="Tails_Rush_Test_ Up0000" x="866" y="1087" width="371" height="438" frameX="-131" frameY="-5" frameWidth="518" frameHeight="546" />
+<SubTexture name="Tails_Rush_Test_ Up0001" x="1024" y="546" width="512" height="541" frameX="0" frameY="-3" frameWidth="518" frameHeight="546" />
+</TextureAtlas>

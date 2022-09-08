@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sunk.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="664" height="437" frameX="-11" frameY="-20" frameWidth="866" frameHeight="459"/>
+	<SubTexture name="idle0001" x="0" y="0" width="664" height="437" frameX="-11" frameY="-20" frameWidth="866" frameHeight="459"/>
+	<SubTexture name="idle0002" x="664" y="0" width="652" height="417" frameX="0" frameY="-42" frameWidth="866" frameHeight="459"/>
+	<SubTexture name="idle0003" x="664" y="0" width="652" height="417" frameX="0" frameY="-42" frameWidth="866" frameHeight="459"/>
+	<SubTexture name="idle0004" x="1316" y="0" width="655" height="437" frameX="0" frameY="-20" frameWidth="866" frameHeight="459"/>
+	<SubTexture name="idle0005" x="0" y="437" width="672" height="430" frameX="-33" frameY="0" frameWidth="866" frameHeight="459"/>
+	<SubTexture name="idle0006" x="0" y="437" width="672" height="430" frameX="-33" frameY="0" frameWidth="866" frameHeight="459"/>
+	<SubTexture name="idle0007" x="672" y="437" width="663" height="437" frameX="-192" frameY="-20" frameWidth="866" frameHeight="459"/>
+	<SubTexture name="idle0008" x="672" y="437" width="663" height="437" frameX="-192" frameY="-20" frameWidth="866" frameHeight="459"/>
+	<SubTexture name="idle0009" x="1335" y="437" width="652" height="417" frameX="-214" frameY="-42" frameWidth="866" frameHeight="459"/>
+	<SubTexture name="idle0010" x="1335" y="437" width="652" height="417" frameX="-214" frameY="-42" frameWidth="866" frameHeight="459"/>
+	<SubTexture name="idle0011" x="0" y="874" width="654" height="437" frameX="-212" frameY="-20" frameWidth="866" frameHeight="459"/>
+	<SubTexture name="idle0012" x="654" y="874" width="673" height="430" frameX="-161" frameY="0" frameWidth="866" frameHeight="459"/>
+	<SubTexture name="idle0013" x="654" y="874" width="673" height="430" frameX="-161" frameY="0" frameWidth="866" frameHeight="459"/>
+</TextureAtlas>

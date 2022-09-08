@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sanic.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PAINTdown0000" x="0" y="0" width="367" height="126" frameX="-6" frameY="-222" frameWidth="380" frameHeight="348"/>
+	<SubTexture name="PAINTdown0001" x="367" y="0" width="380" height="122" frameX="0" frameY="-226" frameWidth="380" frameHeight="348"/>
+	<SubTexture name="PAINTdown0002" x="747" y="0" width="286" height="302" frameX="-48" frameY="-45" frameWidth="380" frameHeight="348"/>
+	<SubTexture name="PAINTdown0003" x="747" y="0" width="286" height="302" frameX="-48" frameY="-45" frameWidth="380" frameHeight="348"/>
+	<SubTexture name="PAINTdown0004" x="1033" y="0" width="285" height="261" frameX="-49" frameY="-33" frameWidth="380" frameHeight="348"/>
+	<SubTexture name="PAINTdown0005" x="1033" y="0" width="285" height="261" frameX="-49" frameY="-33" frameWidth="380" frameHeight="348"/>
+	<SubTexture name="PAINTdown0006" x="1318" y="0" width="282" height="267" frameX="-51" frameY="-13" frameWidth="380" frameHeight="348"/>
+	<SubTexture name="PAINTdown0007" x="1318" y="0" width="282" height="267" frameX="-51" frameY="-13" frameWidth="380" frameHeight="348"/>
+	<SubTexture name="PAINTdown0008" x="1600" y="0" width="275" height="271" frameX="-55" frameY="0" frameWidth="380" frameHeight="348"/>
+	<SubTexture name="PAINTidle0000" x="1875" y="0" width="904" height="736" frameX="-4" frameY="-31" frameWidth="940" frameHeight="777"/>
+	<SubTexture name="PAINTidle0001" x="1875" y="0" width="904" height="736" frameX="-4" frameY="-31" frameWidth="940" frameHeight="777"/>
+	<SubTexture name="PAINTidle0002" x="2779" y="0" width="898" height="744" frameX="-2" frameY="-33" frameWidth="940" frameHeight="777"/>
+	<SubTexture name="PAINTidle0003" x="2779" y="0" width="898" height="744" frameX="-2" frameY="-33" frameWidth="940" frameHeight="777"/>
+	<SubTexture name="PAINTidle0004" x="3677" y="0" width="915" height="738" frameX="0" frameY="-21" frameWidth="940" frameHeight="777"/>
+	<SubTexture name="PAINTidle0005" x="3677" y="0" width="915" height="738" frameX="0" frameY="-21" frameWidth="940" frameHeight="777"/>
+	<SubTexture name="PAINTidle0006" x="4592" y="0" width="918" height="743" frameX="0" frameY="-11" frameWidth="940" frameHeight="777"/>
+	<SubTexture name="PAINTidle0007" x="5510" y="0" width="923" height="733" frameX="0" frameY="-11" frameWidth="940" frameHeight="777"/>
+	<SubTexture name="PAINTidle0008" x="6433" y="0" width="937" height="703" frameX="0" frameY="-5" frameWidth="940" frameHeight="777"/>
+	<SubTexture name="PAINTidle0009" x="6433" y="0" width="937" height="703" frameX="0" frameY="-5" frameWidth="940" frameHeight="777"/>
+	<SubTexture name="PAINTidle0010" x="0" y="744" width="940" height="695" frameX="0" frameY="0" frameWidth="940" frameHeight="777"/>
+	<SubTexture name="PAINTidle0011" x="0" y="744" width="940" height="695" frameX="0" frameY="0" frameWidth="940" frameHeight="777"/>
+	<SubTexture name="PAINTidle0012" x="0" y="744" width="940" height="695" frameX="0" frameY="0" frameWidth="940" frameHeight="777"/>
+	<SubTexture name="PAINTidle0013" x="0" y="744" width="940" height="695" frameX="0" frameY="0" frameWidth="940" frameHeight="777"/>
+	<SubTexture name="PAINTleft0000" x="940" y="744" width="1379" height="850" frameX="0" frameY="-77" frameWidth="1420" frameHeight="927"/>
+	<SubTexture name="PAINTleft0001" x="2319" y="744" width="1349" height="850" frameX="-44" frameY="-77" frameWidth="1420" frameHeight="927"/>
+	<SubTexture name="PAINTleft0002" x="3668" y="744" width="1292" height="849" frameX="-128" frameY="-78" frameWidth="1420" frameHeight="927"/>
+	<SubTexture name="PAINTleft0003" x="3668" y="744" width="1292" height="849" frameX="-128" frameY="-78" frameWidth="1420" frameHeight="927"/>
+	<SubTexture name="PAINTleft0004" x="4960" y="744" width="1257" height="836" frameX="-153" frameY="-91" frameWidth="1420" frameHeight="927"/>
+	<SubTexture name="PAINTleft0005" x="4960" y="744" width="1257" height="836" frameX="-153" frameY="-91" frameWidth="1420" frameHeight="927"/>
+	<SubTexture name="PAINTleft0006" x="6217" y="744" width="1223" height="824" frameX="-176" frameY="-103" frameWidth="1420" frameHeight="927"/>
+	<SubTexture name="PAINTleft0007" x="6217" y="744" width="1223" height="824" frameX="-176" frameY="-103" frameWidth="1420" frameHeight="927"/>
+	<SubTexture name="PAINTleft0008" x="0" y="1594" width="1145" height="926" frameX="-252" frameY="0" frameWidth="1420" frameHeight="927"/>
+	<SubTexture name="PAINTright0000" x="1145" y="1594" width="1399" height="1467" frameX="-277" frameY="-26" frameWidth="1676" frameHeight="1494"/>
+	<SubTexture name="PAINTright0001" x="2544" y="1594" width="1277" height="1493" frameX="-192" frameY="0" frameWidth="1676" frameHeight="1494"/>
+	<SubTexture name="PAINTright0002" x="3821" y="1594" width="1239" height="1394" frameX="-176" frameY="-99" frameWidth="1676" frameHeight="1494"/>
+	<SubTexture name="PAINTright0003" x="3821" y="1594" width="1239" height="1394" frameX="-176" frameY="-99" frameWidth="1676" frameHeight="1494"/>
+	<SubTexture name="PAINTright0004" x="5060" y="1594" width="1233" height="1402" frameX="-132" frameY="-91" frameWidth="1676" frameHeight="1494"/>
+	<SubTexture name="PAINTright0005" x="5060" y="1594" width="1233" height="1402" frameX="-132" frameY="-91" frameWidth="1676" frameHeight="1494"/>
+	<SubTexture name="PAINTright0006" x="6293" y="1594" width="1162" height="1412" frameX="-80" frameY="-81" frameWidth="1676" frameHeight="1494"/>
+	<SubTexture name="PAINTright0007" x="6293" y="1594" width="1162" height="1412" frameX="-80" frameY="-81" frameWidth="1676" frameHeight="1494"/>
+	<SubTexture name="PAINTright0008" x="0" y="3087" width="1137" height="1424" frameX="0" frameY="-70" frameWidth="1676" frameHeight="1494"/>
+	<SubTexture name="PAINTup0000" x="1137" y="3087" width="1443" height="1549" frameX="-173" frameY="0" frameWidth="1867" frameHeight="1549"/>
+	<SubTexture name="PAINTup0001" x="2580" y="3087" width="1504" height="1457" frameX="-148" frameY="-83" frameWidth="1867" frameHeight="1549"/>
+	<SubTexture name="PAINTup0002" x="4084" y="3087" width="1661" height="1323" frameX="-84" frameY="-204" frameWidth="1867" frameHeight="1549"/>
+	<SubTexture name="PAINTup0003" x="4084" y="3087" width="1661" height="1323" frameX="-84" frameY="-204" frameWidth="1867" frameHeight="1549"/>
+	<SubTexture name="PAINTup0004" x="5745" y="3087" width="1734" height="1240" frameX="-54" frameY="-279" frameWidth="1867" frameHeight="1549"/>
+	<SubTexture name="PAINTup0005" x="5745" y="3087" width="1734" height="1240" frameX="-54" frameY="-279" frameWidth="1867" frameHeight="1549"/>
+	<SubTexture name="PAINTup0006" x="0" y="4636" width="1855" height="1119" frameX="-5" frameY="-388" frameWidth="1867" frameHeight="1549"/>
+	<SubTexture name="PAINTup0007" x="0" y="4636" width="1855" height="1119" frameX="-5" frameY="-388" frameWidth="1867" frameHeight="1549"/>
+	<SubTexture name="PAINTup0008" x="1855" y="4636" width="1867" height="1060" frameX="0" frameY="-441" frameWidth="1867" frameHeight="1549"/>
+</TextureAtlas>

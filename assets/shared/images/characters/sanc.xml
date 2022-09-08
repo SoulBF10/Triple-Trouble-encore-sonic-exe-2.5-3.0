@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sanc.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PAINTidle0000" x="0" y="0" width="704" height="659" frameX="-4" frameY="-31" frameWidth="709" frameHeight="690"/>
+	<SubTexture name="PAINTidle0001" x="0" y="0" width="704" height="659" frameX="-4" frameY="-31" frameWidth="709" frameHeight="690"/>
+	<SubTexture name="PAINTidle0002" x="704" y="0" width="707" height="657" frameX="-2" frameY="-33" frameWidth="709" frameHeight="690"/>
+	<SubTexture name="PAINTidle0003" x="704" y="0" width="707" height="657" frameX="-2" frameY="-33" frameWidth="709" frameHeight="690"/>
+	<SubTexture name="PAINTidle0004" x="1411" y="0" width="708" height="669" frameX="0" frameY="-21" frameWidth="709" frameHeight="690"/>
+	<SubTexture name="PAINTidle0005" x="1411" y="0" width="708" height="669" frameX="0" frameY="-21" frameWidth="709" frameHeight="690"/>
+	<SubTexture name="PAINTidle0006" x="2119" y="0" width="708" height="679" frameX="0" frameY="-11" frameWidth="709" frameHeight="690"/>
+	<SubTexture name="PAINTidle0007" x="2827" y="0" width="707" height="679" frameX="0" frameY="-11" frameWidth="709" frameHeight="690"/>
+	<SubTexture name="PAINTidle0008" x="0" y="679" width="703" height="685" frameX="0" frameY="-5" frameWidth="709" frameHeight="690"/>
+	<SubTexture name="PAINTidle0009" x="0" y="679" width="703" height="685" frameX="0" frameY="-5" frameWidth="709" frameHeight="690"/>
+	<SubTexture name="PAINTidle0010" x="703" y="679" width="701" height="690" frameX="0" frameY="0" frameWidth="709" frameHeight="690"/>
+	<SubTexture name="PAINTidle0011" x="703" y="679" width="701" height="690" frameX="0" frameY="0" frameWidth="709" frameHeight="690"/>
+	<SubTexture name="PAINTidle0012" x="703" y="679" width="701" height="690" frameX="0" frameY="0" frameWidth="709" frameHeight="690"/>
+	<SubTexture name="PAINTidle0013" x="703" y="679" width="701" height="690" frameX="0" frameY="0" frameWidth="709" frameHeight="690"/>
+</TextureAtlas>
