@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ring Strum.png">
+	<SubTexture name="Ring Strum Base0000" x="0" y="0" width="229" height="235" frameX="0" frameY="0" frameWidth="229" frameHeight="235"/>
+	<SubTexture name="Ring Strum Press0000" x="229" y="0" width="229" height="235" frameX="0" frameY="0" frameWidth="229" frameHeight="235"/>
+	<SubTexture name="Ring Strum Press0001" x="458" y="0" width="229" height="235" frameX="0" frameY="0" frameWidth="229" frameHeight="235"/>
+	<SubTexture name="Ring Strum Press0002" x="0" y="235" width="229" height="235" frameX="0" frameY="0" frameWidth="229" frameHeight="235"/>	
+	<SubTexture name="Ring Strum Press0003" x="229" y="235" width="229" height="235" frameX="0" frameY="0" frameWidth="229" frameHeight="235"/>
+	<SubTexture name="Ring Strum Hit0000" x="458" y="235" width="229" height="235" frameX="0" frameY="0" frameWidth="229" frameHeight="235"/>
+	<SubTexture name="Ring Strum Hit0001" x="0" y="470" width="229" height="235" frameX="0" frameY="0" frameWidth="229" frameHeight="235"/>
+	<SubTexture name="Ring Strum Hit0002" x="229" y="470" width="229" height="235" frameX="0" frameY="0" frameWidth="229" frameHeight="235"/>
+	<SubTexture name="Ring Strum Hit0003" x="458" y="470" width="229" height="235" frameX="0" frameY="0" frameWidth="229" frameHeight="235"/>
+</TextureAtlas>
