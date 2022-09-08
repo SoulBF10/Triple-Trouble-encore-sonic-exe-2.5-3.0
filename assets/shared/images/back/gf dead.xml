@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf dead.png"><SubTexture name="dead0000" x="0" y="0" width="288" height="552" frameX="-24" frameY="-26" frameWidth="339" frameHeight="598" />
+</TextureAtlas>
