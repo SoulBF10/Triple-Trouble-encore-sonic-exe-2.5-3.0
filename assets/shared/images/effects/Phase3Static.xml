@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Phase3Static.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Phase3Static instance 00000" x="0" y="0" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00001" x="392" y="0" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00002" x="784" y="0" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00003" x="1176" y="0" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00004" x="1568" y="0" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00005" x="0" y="221" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00006" x="392" y="221" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00007" x="784" y="221" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00008" x="1176" y="221" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00009" x="1568" y="221" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00010" x="0" y="442" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00011" x="392" y="442" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00012" x="784" y="442" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00013" x="1176" y="442" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00014" x="1568" y="442" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00015" x="0" y="663" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00016" x="392" y="663" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00017" x="784" y="663" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00018" x="1176" y="663" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00019" x="1568" y="663" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00020" x="0" y="884" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00021" x="392" y="884" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00022" x="784" y="884" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00023" x="1176" y="884" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00024" x="1568" y="884" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00025" x="0" y="1105" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00026" x="392" y="1105" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00027" x="784" y="1105" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00028" x="1176" y="1105" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00029" x="1568" y="1105" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00030" x="0" y="1326" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00031" x="392" y="1326" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00032" x="784" y="1326" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00033" x="1176" y="1326" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00034" x="1568" y="1326" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00035" x="0" y="1547" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00036" x="392" y="1547" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00037" x="784" y="1547" width="392" height="221"/>
+	<SubTexture name="Phase3Static instance 00038" x="1176" y="1547" width="392" height="221"/>
+</TextureAtlas>
