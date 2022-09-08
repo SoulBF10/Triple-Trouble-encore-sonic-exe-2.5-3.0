@@ -1,0 +1,4 @@
+change characters lol
+
+value 1: starting character
+value 2: character to change to

@@ -1,0 +1,2 @@
+Plays the static animation, may not work outside triple trouble stage.
+May be offset incorrectly, advised to use it only on opponent sections.

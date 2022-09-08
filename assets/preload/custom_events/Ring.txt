@@ -1,0 +1,6 @@
+This makes a Ring Note that works like the 
+Triple Trouble Ring Notes!
+
+If value 1 is blank, the scroll speed will be based off
+of the base song speed, else it will be based off of 
+value 1's value.

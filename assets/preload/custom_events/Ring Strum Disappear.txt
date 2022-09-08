@@ -1,0 +1,4 @@
+This removes the ring strum with a SLICK animation, 
+along with turning off ring notes!
+
+Values do nothing.

@@ -1,0 +1,4 @@
+This makes a fifth ring strum appear with a SLICK 
+animation, along with turning on ring notes!
+
+Values do nothing.

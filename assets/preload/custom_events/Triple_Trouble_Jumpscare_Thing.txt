@@ -1,0 +1,8 @@
+The jumpscares from Triple Trouble, but in lua. 
+
+Value 1: 
+Which jumpscare to use. 
+Put in tails, knuckles or eggman.
+Value 2:
+If you want the sound of the jumpscares on or off.
+Put in on or off.
