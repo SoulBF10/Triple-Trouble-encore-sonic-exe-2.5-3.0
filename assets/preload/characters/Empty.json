@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				180
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "Scared",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-171,
+				173
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "Sad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-147,
+				178
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Idle Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-148,
+				178
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Idle Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Empty",
+	"position": [
+		-260,
+		350
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		310,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

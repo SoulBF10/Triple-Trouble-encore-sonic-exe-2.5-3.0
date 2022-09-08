@@ -1,33 +1,22 @@
 {
 	"animations": [
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
 				-1,
 				-1
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "idle",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-2,
-				-6
-			],
-			"anim": "idle-alt",
-			"fps": 24,
-			"name": "scared",
+			"name": "TheEmeralds instance",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/encore gf",
+	"image": "back/Emeralds",
 	"position": [
-		170,
-		160
+		-660,
+		-470
 	],
 	"healthicon": "bf",
 	"flip_x": false,
@@ -37,7 +26,7 @@
 		209
 	],
 	"camera_position": [
-		30,
+		10,
 		-10
 	],
 	"sing_duration": 6.1,

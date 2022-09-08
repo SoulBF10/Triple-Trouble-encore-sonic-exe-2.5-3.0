@@ -3,42 +3,31 @@
 		{
 			"loop": false,
 			"offsets": [
-				-1,
-				-1
+				0,
+				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "idle",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-2,
-				-6
-			],
-			"anim": "idle-alt",
-			"fps": 24,
-			"name": "scared",
+			"name": "dead",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/encore gf",
+	"image": "back/dead",
 	"position": [
-		170,
-		160
+		-20,
+		30
 	],
 	"healthicon": "bf",
-	"flip_x": false,
+	"flip_x": true,
 	"healthbar_colors": [
 		49,
 		176,
 		209
 	],
 	"camera_position": [
-		30,
-		-10
+		-50,
+		-30
 	],
 	"sing_duration": 6.1,
 	"scale": 1.1

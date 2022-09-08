@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				39,
-				-12
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
-		},
-		{
-			"offsets": [
-				-1,
-				-1
+				0,
+				-110
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "idle"
+			"name": "MetalIDLE"
 		},
 		{
 			"offsets": [
-				-6,
-				-46
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
-		},
-		{
-			"offsets": [
-				-14,
-				20
+				-26,
+				-75
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "up"
+			"name": "MetalUP"
 		},
 		{
 			"offsets": [
-				-46,
-				-19
+				143,
+				-121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MetalLEFT"
+		},
+		{
+			"offsets": [
+				30,
+				-159
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "right"
+			"name": "MetalRIGHT"
+		},
+		{
+			"offsets": [
+				18,
+				-429
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "metalDOWN"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bf encore",
+	"image": "characters/Metalsonic",
 	"position": [
-		290,
-		280
+		-150,
+		-160
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "Metal",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		32,
+		37,
+		115
 	],
 	"camera_position": [
-		30,
-		-10
+		-60,
+		70
 	],
 	"sing_duration": 6.1,
-	"scale": 1.1
+	"scale": 1
 }

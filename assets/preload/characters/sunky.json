@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				39,
-				-12
+				151,
+				38
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "left"
+			"name": "singLEFT"
 		},
 		{
 			"offsets": [
-				-1,
-				-1
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "idle"
-		},
-		{
-			"offsets": [
-				-6,
-				-46
+				-21,
+				-141
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "down"
+			"name": "singDOWN"
 		},
 		{
 			"offsets": [
-				-14,
-				20
+				58,
+				259
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "up"
+			"name": "singUP"
 		},
 		{
 			"offsets": [
-				-46,
-				-19
+				13,
+				278
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "right"
+			"name": "singRIGHT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bf encore",
+	"image": "characters/sunky",
 	"position": [
-		290,
-		280
+		160,
+		310
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "sunky",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		38,
+		72,
+		251
 	],
 	"camera_position": [
-		30,
+		110,
 		-10
 	],
-	"sing_duration": 6.1,
-	"scale": 1.1
+	"sing_duration": 5,
+	"scale": 1
 }

@@ -1,0 +1,93 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-46,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Fleetway Idle"
+		},
+		{
+			"offsets": [
+				-45,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Fleetway Up"
+		},
+		{
+			"offsets": [
+				-152,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Fleetway Right"
+		},
+		{
+			"offsets": [
+				-33,
+				-181
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Fleetway Down"
+		},
+		{
+			"offsets": [
+				84,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Fleetway Left"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-46,
+				-50
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Fleetway Idle",
+			"indices": [
+				8,
+				9,
+				10
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/super sexy",
+	"position": [
+		-790,
+		-290
+	],
+	"healthicon": "fleetway",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		95,
+		115
+	],
+	"camera_position": [
+		60,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}

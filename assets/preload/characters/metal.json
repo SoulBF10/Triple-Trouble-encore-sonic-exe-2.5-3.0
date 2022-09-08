@@ -2,19 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				39,
-				-12
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
-		},
-		{
-			"offsets": [
-				-1,
-				-1
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +13,19 @@
 		},
 		{
 			"offsets": [
-				-6,
-				-46
+				37,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-58,
+				-131
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-14,
-				20
+				69,
+				5
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-46,
-				-19
+				-10,
+				-10
 			],
 			"loop": false,
 			"fps": 24,
@@ -56,23 +56,23 @@
 			"name": "right"
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/bf encore",
+	"no_antialiasing": true,
+	"image": "characters/metal",
 	"position": [
-		290,
-		280
+		-350,
+		80
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "ms",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		43,
+		41,
+		71
 	],
 	"camera_position": [
-		30,
-		-10
+		-80,
+		50
 	],
 	"sing_duration": 6.1,
-	"scale": 1.1
+	"scale": 1
 }

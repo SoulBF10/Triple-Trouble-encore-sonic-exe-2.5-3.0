@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				39,
-				-12
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
-		},
-		{
-			"offsets": [
-				-1,
-				-1
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "idle"
+			"name": "Tails Idle"
 		},
 		{
 			"offsets": [
-				-6,
-				-46
+				185,
+				-94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tails Left"
+		},
+		{
+			"offsets": [
+				17,
+				-37
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "down"
+			"name": "Tails Down"
 		},
 		{
 			"offsets": [
-				-14,
-				20
+				46,
+				116
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "up"
+			"name": "Tails Up"
 		},
 		{
 			"offsets": [
-				-46,
-				-19
+				-61,
+				36
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "right"
+			"name": "Tails Right"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bf encore",
+	"image": "characters/SoulTails",
 	"position": [
-		290,
+		10,
 		280
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "tails",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		55,
+		55,
+		61
 	],
 	"camera_position": [
-		30,
-		-10
+		-60,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1.1
+	"scale": 1.2
 }
